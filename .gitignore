@@ -1,0 +1,14 @@
+# pycache
+__pycache__
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# data directory
+data/
+
+# log directory
+log/
+
+# pickle file directory
+pkl/
